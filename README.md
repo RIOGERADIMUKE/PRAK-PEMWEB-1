@@ -15,3 +15,6 @@ Mengenai cara instalasi react native lalu terdapat langkah-langkah dan mengemban
 
 # Modul VI
 Mengenai search flatlist pada react native untuk membuat sebuah program aplikasi mobile dengan fitur search terdapat dalam program tersebut dengan menggunakan sebuah react native
+
+# Responsi 
+Tugas responsi membuat sebuah web profile perusahaan atau tempat usaha yang ada di kota Palangka Raya. dan Responsi ini dikerjakan secara berkelompok dalam satu kelompok berisi 6 anggota dan berikut adalah linknya : https://github.com/MuhammadArifiin/responsi-pemwebmobile1
